@@ -136,8 +136,8 @@ const Content = styled.div`
     padding-right: 2em;
     padding-left: 2em;
     h1 {
-      font-size: 2.3rem;
-      line-height: 2.8rem;
+      font-size: 1.3rem;
+      line-height: 1.8rem;
     }
 
     h2 {
